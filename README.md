@@ -4,4 +4,4 @@
 - 🔭 I’m currently working at Getrak as Intern
 - 🌱 I’m currently learning VuJs-GoLang and DevOps (K8 and Docker).
 - 👩🏿‍🤝‍👩🏻 I’m looking to collaborate on projects and hackatons.
-- 💬 Ask me about anything (Python :love:).
+- 💬 Ask me about anything (Python :snake:).
