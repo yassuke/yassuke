@@ -6,6 +6,6 @@ I know some languages and frameworks, like PHP, Python, Flask, Django, CodeIgnit
 
 And, in the database section, I know SQLServer and MySQL.
 
-![ekkopy's github stats](https://github-readme-stats.vercel.app/api?username=ekkopy&theme=dark)
+![yassuke's github stats](https://github-readme-stats.vercel.app/api?username=yassuke&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekkopy&hide=vimscript&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassuke&hide=vimscript&layout=compact&theme=dark)
