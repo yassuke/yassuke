@@ -2,7 +2,7 @@
 
 Hi, I'm an internet developer ate Getrak :smile:.
 
-I know some languages and frameworks, like PHP, Python, Flask, Django, CodeIgniter.
+I know some languages and frameworks, like PHP, Python, Flask, Django, CodeIgniter and learning Laravel <3.
 
 And, in the database section, I know SQLServer and MySQL.
 
