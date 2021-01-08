@@ -23,3 +23,8 @@ And, in the database section, I know SQLServer and MySQL.
 ![yassuke's github stats](https://github-readme-stats.vercel.app/api?username=yassuke&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassuke&hide=vimscript&layout=compact&theme=dark)
+
+# Feel free to contact me :)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoo-martinss)](https://www.linkedin.com/in/thiagoo-martinss)
+[![Gmail Badge](https://img.shields.io/badge/-thiagom.devsec@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:thiagom.devsec@gmail.com)
