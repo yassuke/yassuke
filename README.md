@@ -2,7 +2,7 @@
 
 Hi, I'm an intern developer at Getrak :smile:.
 
-I know some languages and frameworks, like PHP, Python, Flask, Django, CodeIgniter and learning Laravel <3.
+I know some languages and frameworks, like PHP, Python, Flask, Django, CodeIgniter and learning Laravel/GoLang <3.
 
 And, in the database section, I know SQLServer and MySQL.
 
