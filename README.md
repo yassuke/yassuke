@@ -1,10 +1,10 @@
 # $: Hello Friend_
 
-Hi, I'm an intern developer at Getrak :smile:.
+Hi, I'm developer at Getrak :smile:.
 
 I know some languages and frameworks, like PHP, Python, Flask, Django, CodeIgniter and learning Laravel/GoLang <3.
 
-And, in the database section, I know SQLServer and MySQL.
+And, in the database section, I know SQLServer, SQLite e MySQL.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yassuke)
 
