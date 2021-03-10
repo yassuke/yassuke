@@ -1,6 +1,6 @@
 # $: Hello Friend_
 
-Hi, I'm developer at Getrak :smile:.
+Hi, I'm intern developer at Getrak :smile:.
 
 I know some languages and frameworks, like PHP, Python, Flask, Django, CodeIgniter and learning Laravel/GoLang <3.
 
