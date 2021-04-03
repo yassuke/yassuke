@@ -6,7 +6,7 @@ I know some languages and frameworks, like PHP, Python, Flask, Django, CodeIgnit
 
 And, in the database section, I know SQLServer, SQLite e MySQL.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=yassuke)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=thiiagoms)
 
 # Languages:
 
@@ -20,9 +20,9 @@ And, in the database section, I know SQLServer, SQLite e MySQL.
 ![image](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg)
 ![image](https://img.icons8.com/ios-filled/50/fa314a/laravel.png)
 
-![yassuke's github stats](https://github-readme-stats.vercel.app/api?username=yassuke&theme=dark)
+![thiiagoms's github stats](https://github-readme-stats.vercel.app/api?username=thiiagoms&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassuke&hide=vimscript&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagoms&hide=vimscript&layout=compact&theme=dark)
 
 # Feel free to contact me :)
 
