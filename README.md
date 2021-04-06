@@ -28,4 +28,4 @@ And, in the database section, I know SQLServer, SQLite e MySQL.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoo-martinss)](https://www.linkedin.com/in/thiagoo-martinss)
 [![Gmail Badge](https://img.shields.io/badge/-thiagom.devsec@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:thiagom.devsec@gmail.com)
-[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/th14godev)
+[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/thiiagoms)
